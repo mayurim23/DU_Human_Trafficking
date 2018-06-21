@@ -3,7 +3,7 @@
 The primary purpose of the directionality dataset is to track the movement across borders of trafficked persons. As such, statements contained within the TIP Report narratives are only considered codeable if they contain two directionality points (origin, transit, destination). Internal trafficking is not recorded in this data, but is collected in the primary dataset. Similarly, statements that only contain one directionality point (e.g., Afghanistan is a source country for boys trafficked for the purpose of forced labor) are not coded, but this information is collected in the primary dataset. If data pertaining to other coded countries or regions are provided with directionality in the narrative, these data are also collected.
 
 # Main Objective
-  - Interactive Data Visualization
+  - Interactive Data Visualization Graph
   - Below link is the map that envision it to look similar to: 
    http://www.digitalattackmap.com/#anim=1&color=0&country=ALL&list=1&time=17629&view=map
  
