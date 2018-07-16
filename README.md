@@ -7,8 +7,12 @@ The primary purpose of the directionality dataset is to track the movement acros
   - Below link is the map that envision it to look similar to: 
    http://www.digitalattackmap.com/#anim=1&color=0&country=ALL&list=1&time=17629&view=map
  
+# Information about uploaded notebooks and excel sheets.
+  - Data_Cleaning.ipynb is the python notebook containing the code for cleaning Directionality Coding 2008-2016.xlsx and         creating source and destinations latitidues and longitudes columns.
+  - Human_Traffic_data.csv is the excel sheet created after cleaning the data(created in Data_Cleaning.ipynb notebook)
+  - Human Trafficking Bokeh.ipynb is the main file containg the graphs and interactive widgets.Data used from                   Human_Traffic_data.csv file
+ 
  # Table for tentative milestones:
-
 
 <table>
 <tr>
@@ -30,6 +34,6 @@ The primary purpose of the directionality dataset is to track the movement acros
 <td>6th week</td><td>Adding tier Information</td><td></td>
 </tr>
 <tr>
-<td>7th week</td><td>Merging all information</td><td></td><td> </td>
+<td>7th week</td><td>Merging all information</td><td></td>
 </tr>
 </table>
