@@ -9,26 +9,27 @@ The primary purpose of the directionality dataset is to track the movement acros
  
  # Table for tentative milestones:
 
+
 <table>
 <tr>
-  <th>Weeks</th><th>Milestones</th><th>Status</th><th>By</th>
+  <th>Weeks</th><th>Milestones</th><th>Status</th>
 </tr>
 <tr>
-  <td>2nd week</td><td>Loading and cleaning of data</td><td></td><td> </td>
+  <td>2nd week</td><td>Loading and cleaning of data</td><td>Completed</td>
 </tr>
 <tr>
-<td>3rd week</td><td>Graph plots</td><td></td><td> </td>
+<td>3rd week</td><td>Graph plots using source and destination nodes</td><td>Completed</td>
 </tr>
 <tr>
-<td>4th week</td><td>Interactive geo graphs</td><td></td><td> </td>
+<td>4th week</td><td>Adding Years drop down</td><td>In Progress</td>
 </tr>
 <tr>
-<td>5th week</td><td></td><td></td><td> </td>
+<td>5th week</td><td>Adding interactive parameters</td><td>In Progress</td>
 </tr>
 <tr>
-<td>6th week</td><td></td><td></td><td> </td>
+<td>6th week</td><td>Adding tier Information</td><td></td>
 </tr>
 <tr>
-<td>7th week</td><td></td><td></td><td> </td>
+<td>7th week</td><td>Merging all information</td><td></td><td> </td>
 </tr>
 </table>
