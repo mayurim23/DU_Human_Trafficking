@@ -28,12 +28,12 @@ The primary purpose of the directionality dataset is to track the movement acros
 <td>4th week</td><td>Adding Years drop down</td><td>In Progress</td>
 </tr>
 <tr>
-<td>5th week</td><td>Adding interactive parameters</td><td>In Progress</td>
+<td>5th week</td><td>Adding interactive parameters</td><td>Added the interative parameter.Resolving some data issues</td>
 </tr>
 <tr>
-<td>6th week</td><td>Adding tier Information</td><td></td>
+<td>6th week</td><td>Adding tier Information</td><td>Completed</td>
 </tr>
 <tr>
-<td>7th week</td><td>Merging all information</td><td></td>
+<td>7th week</td><td>Merging all information</td><td> Trying to create the dashboard</td>
 </tr>
 </table>
