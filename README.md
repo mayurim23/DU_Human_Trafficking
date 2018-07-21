@@ -34,6 +34,6 @@ The primary purpose of the directionality dataset is to track the movement acros
 <td>6th week</td><td>Adding tier Information</td><td>Completed</td>
 </tr>
 <tr>
-<td>7th week</td><td>Merging all information</td><td> Trying to create the dashboard</td>
+<td>7th week</td><td>Merging all information</td><td> Trying to create the Dashboard</td>
 </tr>
 </table>
