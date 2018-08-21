@@ -11,6 +11,7 @@ The primary purpose of the directionality dataset is to track the movement acros
   - Data_Cleaning.ipynb is the python notebook containing the code for cleaning Directionality Coding 2008-2016.xlsx and         creating source and destinations latitidues and longitudes columns.
   - Human_Traffic_data.csv is the excel sheet created after cleaning the data(created in Data_Cleaning.ipynb notebook)
   - Human Trafficking Bokeh.ipynb is the main file containg the graphs and interactive widgets.Data used from                   Human_Traffic_data.csv file
+  - Capstone_Webpage Folder contains files to display the graphs on interactive webpage.It contains README file which gives     description of how to run .py files.
  
  # Table for tentative milestones:
 
