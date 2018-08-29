@@ -8,7 +8,7 @@ The primary purpose of the directionality dataset is to track the movement acros
    http://www.digitalattackmap.com/#anim=1&color=0&country=ALL&list=1&time=17629&view=map
  
 # Information about uploaded notebooks and excel sheets.
-  - Human Trafficking.ipynb is the python notebook containing the code for cleaning Directionality Coding 2008-2016.xlsx and     creating source and destinations latitidues and longitudes columns and plotting required graphs.
+  - Human_Trafficking_Capstone.ipynb is the python notebook containing the code for cleaning Directionality Coding 2008-         2016.xlsx and creating source and destinations latitidues and longitudes columns and plotting required graphs.
   - Capstone_Webpage Folder contains files to display the graphs on interactive webpage.It contains README file which gives     description of how to run .py files.
   - docx files are the meta data about excel sheets.
   - TIP Tier Ranking.xlsx is the dataset of Tier information
